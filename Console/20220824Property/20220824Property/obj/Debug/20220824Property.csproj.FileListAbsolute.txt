@@ -1,0 +1,8 @@
+D:\工作\code\VS\Console\20220824Property\20220824Property\bin\Debug\20220824Property.exe.config
+D:\工作\code\VS\Console\20220824Property\20220824Property\bin\Debug\20220824Property.exe
+D:\工作\code\VS\Console\20220824Property\20220824Property\bin\Debug\20220824Property.pdb
+D:\工作\code\VS\Console\20220824Property\20220824Property\obj\Debug\20220824Property.csproj.AssemblyReference.cache
+D:\工作\code\VS\Console\20220824Property\20220824Property\obj\Debug\20220824Property.csproj.SuggestedBindingRedirects.cache
+D:\工作\code\VS\Console\20220824Property\20220824Property\obj\Debug\20220824Property.csproj.CoreCompileInputs.cache
+D:\工作\code\VS\Console\20220824Property\20220824Property\obj\Debug\20220824Property.exe
+D:\工作\code\VS\Console\20220824Property\20220824Property\obj\Debug\20220824Property.pdb
